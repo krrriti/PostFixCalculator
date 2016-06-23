@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bitwise.postfixcalculator.PostFixCalculatorTests" tests="10" skipped="0" failures="0" errors="0" timestamp="2016-06-23T10:02:35" hostname="Dell-PC" time="0.011">
+  <properties/>
+  <testcase name="itShouldNotAcceptExprWithoutOperator" classname="com.bitwise.postfixcalculator.PostFixCalculatorTests" time="0.003"/>
+  <testcase name="itShouldBeAbleToDivideOneOperandByAnother" classname="com.bitwise.postfixcalculator.PostFixCalculatorTests" time="0.001"/>
+  <testcase name="itShouldNotAcceptExprWithNoSpace" classname="com.bitwise.postfixcalculator.PostFixCalculatorTests" time="0.001"/>
+  <testcase name="itShouldBeAbleToMultiplyTwoOperands" classname="com.bitwise.postfixcalculator.PostFixCalculatorTests" time="0.0"/>
+  <testcase name="itShouldNotAcceptBlankExpr" classname="com.bitwise.postfixcalculator.PostFixCalculatorTests" time="0.0"/>
+  <testcase name="itShouldNotAcceptBlankExprWithSpaces" classname="com.bitwise.postfixcalculator.PostFixCalculatorTests" time="0.0"/>
+  <testcase name="itShouldBeAbleToAddTwoOperands" classname="com.bitwise.postfixcalculator.PostFixCalculatorTests" time="0.0"/>
+  <testcase name="itShouldNotAcceptNullExpr" classname="com.bitwise.postfixcalculator.PostFixCalculatorTests" time="0.0"/>
+  <testcase name="itShouldNotAcceptExprWithOnlyOneOperand" classname="com.bitwise.postfixcalculator.PostFixCalculatorTests" time="0.001"/>
+  <testcase name="itShouldBeAbleToSubtractOneOperandFromAnother" classname="com.bitwise.postfixcalculator.PostFixCalculatorTests" time="0.001"/>
+  <system-out><![CDATA[less operands
+No Space
+Null or Blank
+Null or Blank
+Null or Blank
+less operands
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
